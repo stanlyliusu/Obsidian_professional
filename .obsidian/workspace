@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "测试.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,8 @@
   "active": "8fdb7ff38133e558",
   "lastOpenFiles": [
     "测试.md",
+    "obsidian 的相关文章 - 少数派.md",
+    "测试 - 副本.md",
     "未命名.md"
   ]
 }
