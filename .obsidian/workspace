@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8fdb7ff38133e558",
+        "id": "d0ca0fc0972853cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Template.md",
-            "mode": "preview"
+            "file": "Daily/2021-09-14_周二.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Daily/2021-09-14_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8fdb7ff38133e558",
+  "active": "d0ca0fc0972853cb",
   "lastOpenFiles": [
-    "未命名.md",
+    "Daily/2021-09-14_周二.md",
+    "Template.md.md",
+    "Template.md",
     "2021-09-14.md",
+    "未命名.md",
     "测试.md",
     "obsidian 的相关文章 - 少数派.md",
     "测试 - 副本.md"
