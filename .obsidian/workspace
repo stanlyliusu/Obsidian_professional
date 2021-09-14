@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "测试.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -74,8 +74,19 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2682656eae0a54d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -83,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8fdb7ff38133e558",
   "lastOpenFiles": [
