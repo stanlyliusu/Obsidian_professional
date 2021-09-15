@@ -1,1 +1,10 @@
-{}
+{
+  "nldates-obsidian:nlp-dates": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ]
+}
