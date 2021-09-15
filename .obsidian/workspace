@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-09-14_周二.md",
+            "file": "测试.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-09-14_周二.md",
+                "file": "测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "7285c255ac7ad35b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,13 +107,13 @@
   },
   "active": "d0ca0fc0972853cb",
   "lastOpenFiles": [
+    "测试.md",
+    "测试 - 副本.md",
+    "obsidian 的相关文章 - 少数派.md",
     "Daily/2021-09-14_周二.md",
     "Template.md.md",
     "Template.md",
     "2021-09-14.md",
-    "未命名.md",
-    "测试.md",
-    "obsidian 的相关文章 - 少数派.md",
-    "测试 - 副本.md"
+    "未命名.md"
   ]
 }
