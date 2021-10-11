@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wwww.md",
+            "file": "Daily/Template.md.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wwww.md",
+                "file": "Daily/Template.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,14 +107,14 @@
   },
   "active": "d0ca0fc0972853cb",
   "lastOpenFiles": [
-    "wwww.md",
+    "Daily/Template.md.md",
     "未命名.md",
+    "wwww.md",
     "Daily/2021-10-11_周一.md",
     "obsidian 的相关文章 - 少数派.md",
     "configuration management for Spintrol.md",
     "测试 - 副本.md",
     "测试.md",
-    "Daily/Template.md.md",
     "CTT_TF1200_Init2Any_1.1.md",
     "Daily/2021-09-17_周五.md"
   ]
