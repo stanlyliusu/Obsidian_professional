@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/Template.md.md",
+            "file": "Daily/2021-09-17_周五.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Template.md.md",
+                "file": "Daily/2021-09-17_周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "d0ca0fc0972853cb",
   "lastOpenFiles": [
-    "Daily/Template.md.md",
-    "未命名.md",
+    "Daily/2021-09-17_周五.md",
+    "Daily/2021-09-16_周四.md",
+    "Daily/2021-09-14_周二.md",
+    "Daily/2021-09-13_周一.md",
+    "Daily/2021-09-12_周日.md",
+    "qqq.md",
+    "www.md",
     "wwww.md",
-    "Daily/2021-10-11_周一.md",
-    "obsidian 的相关文章 - 少数派.md",
-    "configuration management for Spintrol.md",
-    "测试 - 副本.md",
-    "测试.md",
     "CTT_TF1200_Init2Any_1.1.md",
-    "Daily/2021-09-17_周五.md"
+    "configuration management for Spintrol.md"
   ]
 }
