@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CTT_TF1200_Init2Any_1.1.md",
+            "file": "Daily/2021-10-11_周一.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTT_TF1200_Init2Any_1.1.md",
+                "file": "Daily/2021-10-11_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "d0ca0fc0972853cb",
   "lastOpenFiles": [
+    "Daily/2021-10-11_周一.md",
+    "CTT_TF1200_Init2Any_1.1.md",
     "未命名.md",
     "Daily/2021-09-17_周五.md",
     "configuration management for Spintrol.md",
@@ -114,8 +116,6 @@
     "Daily/2021-09-12_周日.md",
     "测试.md",
     "2021-09-12_周日.md",
-    "Daily/2021-09-13_周一.md",
-    "Daily/2021-09-14_周二.md",
-    "测试 - 副本.md"
+    "Daily/2021-09-13_周一.md"
   ]
 }
