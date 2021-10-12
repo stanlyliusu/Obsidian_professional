@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DC处理的流程图.md",
+            "file": "dc伺服实列.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DC处理的流程图.md",
+            "file": "dc伺服实列.md",
             "mode": "preview"
           }
         },
@@ -81,13 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DC处理的流程图.md",
+                "file": "dc伺服实列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -111,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,15 +119,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
-    "DC处理的流程图.md",
+    "dc伺服实列.md",
     "未命名.md",
+    "DC处理的流程图.md",
     "dc实列.md",
     "测试.md",
     "failed_test_in_ecat_summary.png",
     "Daily/2021-10-12_周二.md",
     "Daily/2021-10-11_周一.md",
     "测试 - 副本.md",
-    "obsidian 的相关文章 - 少数派.md",
-    "jwww.md"
+    "obsidian 的相关文章 - 少数派.md"
   ]
 }
