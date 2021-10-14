@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SM和SYNC0示意图.md",
+            "file": "Daily/2021-10-13_周三.md",
             "mode": "source"
           }
-        },
-        "group": "b986c140b16bb6c6"
-      },
-      {
-        "id": "360dc84c7e18d6cd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SM和SYNC0示意图.md",
-            "mode": "preview"
-          }
-        },
-        "group": "b986c140b16bb6c6"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM和SYNC0示意图.md",
+                "file": "Daily/2021-10-13_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +106,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
-    "SM和SYNC0示意图.md",
+    "Daily/2021-10-13_周三.md",
     "dc伺服实列.md",
+    "SM和SYNC0示意图.md",
     "DC处理的流程图.md",
     "从站实验图.md",
-    "未命名.md",
-    "dc实列.md",
-    "测试.md",
-    "failed_test_in_ecat_summary.png",
+    "Daily/2021-10-11_周一.md",
     "Daily/2021-10-12_周二.md",
-    "Daily/2021-10-11_周一.md"
+    "Daily/Template.md.md",
+    "未命名.md",
+    "dc实列.md"
   ]
 }
