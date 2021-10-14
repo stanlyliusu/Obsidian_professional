@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "foldIndent": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
