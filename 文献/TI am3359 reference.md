@@ -1,1 +1,0 @@
-![[ecatonTI.pdf]]

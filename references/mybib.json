@@ -1,0 +1,3 @@
+[
+  {"id":"cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019","abstract":"为解决运动控制领域多轴伺服系统同步问题,提出了基于Ether CAT分布时钟的控制策略。研究了Ether CAT分布时钟同步机制及实现过程,分析了从站在SM模式和DC模式下的中断信号误差,在DC模式下获得误差小于10 ns的高精度同步信号。搭建了基于LAN9252和ARM的具有同步功能的伺服控制平台;利用Ether CAT从站在DC模式下产生的的同步信号对位置环、速度环和电流PWM环的定时器进行同步,实现了伺服系统的同步算法架构。在一个二轴的系统上进行了实验,实验结果表明系统具有较好的可靠性和实时性,能够实现从站间的精确同步。","author":[{"family":"崔","given":"海彬"},{"family":"马","given":"钧华"}],"container-title":"轻工机械","ISSN":"1005-2895","issue":"05","issued":{"date-parts":[[2019]]},"language":"中文;","note":"5 citations(CNKI)[2021-10-14]","page":"51-56","source":"CNKI","title":"基于EtherCAT分布时钟的伺服控制系统研究","type":"article-journal","URL":"https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=QGJX201905010&v=","volume":"37"}
+]
