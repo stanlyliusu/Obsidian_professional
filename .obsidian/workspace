@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299
   },
   "right": {
     "id": "6e4b98c48d741c78",
@@ -110,13 +109,13 @@
   "lastOpenFiles": [
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "references/Mdnotes Default Template.md",
+    "references/TI am3359 reference.md",
+    "references/崔_马_2019_基于EtherCAT分布时钟的伺服控制系统研究.pdf",
+    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
     "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午103417)。 。 。 。 1 。 (崔 and 马 201951)一个note的实验 (note on p.51)计算数据帧返回的公式 (note on.md",
     "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
     "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午95940).md",
-    "references/TI am3359 reference.md",
     "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午92706).md",
-    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午85445).md",
-    "references/mdnotes default template.md",
-    "mdnotes default template.md"
+    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午85445).md"
   ]
 }
