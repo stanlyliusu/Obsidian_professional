@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-            "mode": "source"
+            "file": "references/radhapuramDesignEmulationAllDigital2019.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
+                "file": "references/radhapuramDesignEmulationAllDigital2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "references/radhapuramDesignEmulationAllDigital2019.md",
+    "references/Radhapuram et al_2019_Design and Emulation of All-Digital Phase-Locked Loop on FPGA.pdf",
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "references/Mdnotes Default Template.md",
     "references/TI am3359 reference.md",
@@ -114,8 +116,6 @@
     "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
     "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午103417)。 。 。 。 1 。 (崔 and 马 201951)一个note的实验 (note on p.51)计算数据帧返回的公式 (note on.md",
     "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
-    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午95940).md",
-    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午92706).md",
-    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午85445).md"
+    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午95940).md"
   ]
 }
