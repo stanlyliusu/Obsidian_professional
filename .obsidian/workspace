@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/mdnotes default template.md",
+            "file": "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/mdnotes default template.md",
+                "file": "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
-    "references/mdnotes default template.md",
     "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
+    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午92706).md",
+    "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午85445).md",
+    "references/TI am3359 reference.md",
+    "references/mdnotes default template.md",
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "mdnotes default template.md",
-    "references/TI am3359 reference.md",
     "未命名.md",
     "references/基于LAN9252芯片的EtherCAT从站的实现_陶春荣.pdf",
-    "Daily/2021-10-15_周五.md",
-    "Reading notes/@cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "TI_eathcat架构.md"
+    "Daily/2021-10-15_周五.md"
   ]
 }
