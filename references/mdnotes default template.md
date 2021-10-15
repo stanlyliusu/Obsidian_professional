@@ -1,9 +1,7 @@
 ---
-
 alias: %(citekey)
 date:
 tags: #
-
 ---
 
 {{title}}

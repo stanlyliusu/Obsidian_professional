@@ -7,11 +7,8 @@
         "id": "b7b4cdf1f42b3628",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +104,8 @@
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午103417)。 。 。 。 1 。 (崔 and 马 201951)一个note的实验 (note on p.51)计算数据帧返回的公式 (note on.md",
     "references/Mdnotes Default Template.md",
+    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午103417)。 。 。 。 1 。 (崔 and 马 201951)一个note的实验 (note on p.51)计算数据帧返回的公式 (note on.md",
     "references/taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021.md",
     "taoJiYuLAN9252XinPianDeEtherCATCongZhanDeShiXian2021 - Extracted Annotations (20211015 上午95940).md",
     "references/TI am3359 reference.md",
