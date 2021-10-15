@@ -1,7 +1,7 @@
 {
   "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "references",
+  "literatureNoteFolder": "Reading Notes",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
