@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-19_周二.md",
+            "file": "TI_eathcat架构.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-19_周二.md",
+                "file": "TI_eathcat架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "TI_eathcat架构.md",
     "Daily/2021-10-19_周二.md",
     "Daily/2021-10-18_周一.md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
@@ -115,7 +116,6 @@
     "references/Mdnotes Default Template.md",
     "references/TI am3359 reference.md",
     "references/崔_马_2019_基于EtherCAT分布时钟的伺服控制系统研究.pdf",
-    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
-    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午103417)。 。 。 。 1 。 (崔 and 马 201951)一个note的实验 (note on p.51)计算数据帧返回的公式 (note on.md"
+    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md"
   ]
 }
