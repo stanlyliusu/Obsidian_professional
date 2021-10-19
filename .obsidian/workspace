@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-19_周二.md",
+            "file": "频率和相位的关系.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-19_周二.md",
+                "file": "频率和相位的关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "未命名.md",
     "Daily/2021-10-19_周二.md",
     "TI_eathcat架构.md",
     "Daily/2021-10-18_周一.md",
@@ -115,7 +116,6 @@
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "references/Mdnotes Default Template.md",
     "references/TI am3359 reference.md",
-    "references/崔_马_2019_基于EtherCAT分布时钟的伺服控制系统研究.pdf",
-    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md"
+    "references/崔_马_2019_基于EtherCAT分布时钟的伺服控制系统研究.pdf"
   ]
 }
