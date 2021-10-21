@@ -7,8 +7,11 @@
         "id": "b7b4cdf1f42b3628",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +107,10 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "未命名.md",
     "闪念/ssc 配置.md",
     "Daily/2021-10-21_周四.md",
-    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
     "references/TI am3359 reference.md",
