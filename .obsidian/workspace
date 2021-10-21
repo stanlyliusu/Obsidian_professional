@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-21_周四.md",
-            "mode": "source"
+            "file": "Reading Notes/dc伺服实列.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-21_周四.md",
+                "file": "Reading Notes/dc伺服实列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
-    "Daily/2021-10-21_周四.md",
-    "Daily/2021-10-18_周一.md",
-    "未命名.md",
+    "Reading Notes/dc伺服实列.md",
+    "Reading Notes/从站实验图.md",
+    "Reading Notes/频率和相位的关系.md",
     "Daily/2021-10-19_周二.md",
-    "TI_eathcat架构.md",
-    "references/radhapuramDesignEmulationAllDigital2019.md",
-    "references/Radhapuram et al_2019_Design and Emulation of All-Digital Phase-Locked Loop on FPGA.pdf",
-    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "references/Mdnotes Default Template.md",
-    "references/TI am3359 reference.md"
+    "Daily/2021-10-21_周四.md",
+    "Reading Notes/TI_eathcat架构.md",
+    "Reading Notes/SM和SYNC0示意图.md",
+    "Reading Notes/FPGA之全数字锁相环.md",
+    "Reading Notes/DC处理的流程图.md",
+    "Daily/2021-10-18_周一.md"
   ]
 }
