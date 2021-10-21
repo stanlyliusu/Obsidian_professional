@@ -7,11 +7,8 @@
         "id": "b7b4cdf1f42b3628",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "references/radhapuramDesignEmulationAllDigital2019.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#时钟同步-servo-control-system",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/radhapuramDesignEmulationAllDigital2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +93,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "70f0baa380d6257e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,15 +103,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "未命名.md",
+    "闪念/ssc 配置.md",
+    "Daily/2021-10-21_周四.md",
+    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
+    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
     "references/TI am3359 reference.md",
-    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "references/digital pll tutorial.pdf",
     "references/Mdnotes Default Template.md",
-    "references/PRU_Building_Blocks_M1_Hardware.pdf",
-    "references/PRUAssemblyInstruction2018.md",
-    "Reading Notes/从站实验图.md",
-    "Reading Notes/TI_eathcat架构.md",
-    "Reading Notes/SM和SYNC0示意图.md"
+    "references/PRU_Building_Blocks_M1_Hardware.pdf"
   ]
 }

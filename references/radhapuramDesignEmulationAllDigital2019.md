@@ -17,7 +17,7 @@ tags: #
 * [Local library](zotero://select/items/1_DFG9AJW9)
 
 * PDF Attachments
-	- [Radhapuram 等。 - 2019 - Design and Emulation of All-Digital Phase-Locked L.pdf](zotero://open-pdf/library/items/XF4RJ7EN)
+	- [Radhapuram et al_2019_Design and Emulation of All-Digital Phase-Locked Loop on FPGA.pdf](zotero://open-pdf/library/items/FU9XYQ7S)
 
 ***
 
