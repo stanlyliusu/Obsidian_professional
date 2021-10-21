@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-11_周一.md",
+            "file": "Daily/2021-10-13_周三.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-11_周一.md",
+                "file": "Daily/2021-10-13_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "Daily/2021-10-13_周三.md",
+    "Daily/2021-10-21_周四.md",
+    "Daily/2021-10-15_周五.md",
+    "Daily/2021-10-14_周四.md",
+    "Daily/2021-10-12_周二.md",
     "Daily/2021-10-11_周一.md",
     "Daily/2021-10-18_周一.md",
     "Daily/2021-10-19_周二.md",
-    "Daily/2021-10-21_周四.md",
     "Reading Notes/TI_eathcat架构.md",
-    "Reading Notes/从站实验图.md",
-    "Reading Notes/频率和相位的关系.md",
-    "Reading Notes/DC处理的流程图.md",
-    "Reading Notes/dc伺服实列.md",
-    "Reading Notes/SM和SYNC0示意图.md"
+    "Reading Notes/从站实验图.md"
   ]
 }
