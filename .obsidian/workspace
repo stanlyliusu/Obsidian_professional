@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "闪念/ssc 配置.md",
+            "file": "Daily/2021-10-18_周一.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念/ssc 配置.md",
+                "file": "Daily/2021-10-18_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +107,9 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "Daily/2021-10-18_周一.md",
     "未命名.md",
     "Daily/2021-10-21_周四.md",
-    "Daily/2021-10-18_周一.md",
     "Daily/2021-10-19_周二.md",
     "TI_eathcat架构.md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
