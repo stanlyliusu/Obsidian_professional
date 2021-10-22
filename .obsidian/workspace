@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/TI am3359 reference.md",
+            "file": "Daily/2021-10-22_周五.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/TI am3359 reference.md",
+                "file": "Daily/2021-10-22_周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,15 +107,15 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "Daily/2021-10-22_周五.md",
+    "Daily/2021-10-21_周四.md",
+    "Reading Notes/ecatonTI.pdf",
     "references/TI am3359 reference.md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
     "references/EcatonRPU.md",
     "references/Mdnotes Default Template.md",
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
     "未命名.md",
-    "闪念/ssc 配置.md",
-    "Daily/2021-10-21_周四.md",
-    "cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019 - Extracted Annotations (20211015 上午114906).md",
-    "references/digital pll tutorial.pdf"
+    "闪念/ssc 配置.md"
   ]
 }
