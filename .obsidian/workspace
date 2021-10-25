@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-22_周五.md",
+            "file": "Daily/2021-10-25_周一.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-22_周五.md",
+                "file": "Daily/2021-10-25_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "Daily/2021-10-25_周一.md",
     "Daily/2021-10-22_周五.md",
     "Daily/2021-10-21_周四.md",
     "Reading Notes/ecatonTI.pdf",
@@ -115,7 +116,6 @@
     "references/EcatonRPU.md",
     "references/Mdnotes Default Template.md",
     "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "未命名.md",
-    "闪念/ssc 配置.md"
+    "未命名.md"
   ]
 }
