@@ -19,12 +19,14 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 		- register description:![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251645190.png)
 
 - SII EEPROM Logic Interface
-	the interface is either controlled by EtherCAT or by PDI.
-	Initially by EtherCAT.
-	It can transfer access to the PDI.
-	three command type:
-	Interface register overview: ![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251657190.png)
-
+	- Interface register overview: ![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251657190.png)
+		- the interface is either controlled by EtherCAT or by PDI.
+		- Initially by EtherCAT.
+		- It can transfer access to the PDI.
+		- three command type:
+			- write to one EEPROM address (1 Word== 2 bytes)
+			- read from EEPROM(2 or 4 Words, depending on ESC)
+			- reload
 	- SII EEPROM Errors
 	- SII EEPROM Interface Assignment to ECAT/PDI
 	- Read/Write/Reload Example
