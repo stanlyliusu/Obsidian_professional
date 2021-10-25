@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-25_周一.md",
+            "file": "Reading Notes/esc eeprom feature lists.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-25_周一.md",
+                "file": "Reading Notes/esc eeprom feature lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "b7b4cdf1f42b3628",
   "lastOpenFiles": [
+    "Reading Notes/esc eeprom feature lists.md",
     "Daily/2021-10-25_周一.md",
     "Daily/2021-10-22_周五.md",
     "Daily/2021-10-21_周四.md",
@@ -115,7 +116,6 @@
     "references/radhapuramDesignEmulationAllDigital2019.md",
     "references/EcatonRPU.md",
     "references/Mdnotes Default Template.md",
-    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "未命名.md"
+    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md"
   ]
 }
