@@ -1,14 +1,14 @@
 # SII EEPROM
-ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store EtherCAT Slave Information(ESI). EEPROM sizes from 1K bit up to 4 Mbit are supported.
 
-![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251229513.png)
-
-1. word 0 to 63 is mandatory.
-2. general category is mandatory.
-3. absolute minimum SII EEPROM size is 2Kbit.
-4. ESC configuratio area is used by ESC for configuration.
-5. other parts are used by the master or local app.
-
+## overview
+- ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store EtherCAT Slave Information(ESI). EEPROM sizes from 1K bit up to 4 Mbit are supported.
+	- ![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251229513.png)
+	- word 0 to 63 is mandatory.
+	- general category is mandatory.
+	- absolute minimum SII EEPROM size is 2Kbit.
+	- ESC configuratio area is used by ESC for configuration.
+	- other parts are used by the master or local app.
+		
 - SII EEPROM Content
 	- ESC Configuration Area(EEPROM word addresses 0 to 7) is automatically read by the ESC after power-on or reset.
 		***what about in Emulation mode?? this data is assigned by ucontroller or ESC automatically read??***
@@ -32,3 +32,8 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 	- Read/Write/Reload Example
 	- EEPROM Emulation
 - SII EEPROM Electrical Interface(I2C)??
+
+
+
+
+
