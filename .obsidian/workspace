@@ -98,23 +98,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 245.5
   },
   "active": "c49f2b64ae0877ae",
   "lastOpenFiles": [
     "Reading Notes/esc eeprom feature lists.md",
+    "Daily/2021-10-18_周一.md",
+    "Daily/2021-10-19_周二.md",
+    "Daily/2021-10-13_周三.md",
+    "Daily/2021-10-15_周五.md",
+    "Daily/2021-10-14_周四.md",
+    "Daily/2021-10-11_周一.md",
+    "Daily/2021-10-12_周二.md",
     "references/SectionIIRegister.md",
-    "ESC Register Configured Station Alias (0x0012-0x0013).md",
-    "ESC Register ESC Configuration (0x0141).md",
-    "references/cuiJiYuEtherCATFenBuShiZhongDeSiFuKongZhiXiTongYanJiu2019.md",
-    "references/DigitalPllTutorial.md",
-    "references/Mdnotes Default Template.md",
-    "references/PRUAssemblyInstruction2018.md",
-    "ESC Register Configured Station Alias 0x0012-0x0013.md",
-    "Daily/2021-10-25_周一.md"
+    "ESC Register Configured Station Alias (0x0012-0x0013).md"
   ]
 }
