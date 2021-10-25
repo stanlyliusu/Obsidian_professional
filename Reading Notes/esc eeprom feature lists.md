@@ -15,7 +15,7 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 	- Master can invoke reolad the EEPROM content. 
 		- Not transferred during reload:
 			- [[ESC Register Configured Station Alias (0x0012-0x0013)]]
-			- ESC configuration reg bits 0x0141[1,4,5,6,7](enhanced link detction) 
+			- bits [1,4,5,6,7] of [[ESC Register ESC Configuration (0x0141)]](enhanced link detction) 
 - SII EEPROM Logic Interface
 	- SII EEPROM Errors
 	- SII EEPROM Interface Assignment to ECAT/PDI
