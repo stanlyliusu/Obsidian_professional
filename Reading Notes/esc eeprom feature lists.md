@@ -12,8 +12,10 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 - SII EEPROM Content
 	- ESC Configuration Area(EEPROM word addresses 0 to 7) is automatically read by the ESC after power-on or reset.
 		***what about in Emulation mode?? this data is assigned by ucontroller or ESC automatically read??***
-	- Master can invoke reolad the EEPROM content.
-		- Station Alias reg 0x0012:0x0013 and ESC configuration reg bits 0x0141[1,4,5,6,7](enhanced link detction) are not transferred when reloaded. They are only transfterred at the initial EEPROM loading after pwoer-on or reset.
+	- Master can invoke reolad the EEPROM content. 
+		- Not transferred during reload:
+			- [[ESC Register Configured Station Alias (0x0012-0x0013)]]
+			- ESC configuration reg bits 0x0141[1,4,5,6,7](enhanced link detction) 
 - SII EEPROM Logic Interface
 	- SII EEPROM Errors
 	- SII EEPROM Interface Assignment to ECAT/PDI

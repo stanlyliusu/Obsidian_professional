@@ -4,5 +4,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "communityPluginSortOrder": "download",
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "attachmentFolderPath": "文档"
 }
