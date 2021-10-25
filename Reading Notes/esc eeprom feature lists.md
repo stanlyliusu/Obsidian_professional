@@ -4,7 +4,10 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 ![](https://stanlyliusuphoto-1259435273.cos.ap-shanghai.myqcloud.com/img/202110251229513.png)
 
 1. word 0 to 63 is mandatory.
-2. 
+2. general category is mandatory.
+3. absolute minimum SII EEPROM size is 2Kbit.
+4. ESC configuratio area is used by ESC for configuration.
+5. other parts are used by the master or local app.
 
 - SII EEPROM Content
 - SII EEPROM Logic Interface
