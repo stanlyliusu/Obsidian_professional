@@ -10,6 +10,7 @@ ESC use a mandatory MVRAM(typically a serial EEPROM with I2C interface) to store
 5. other parts are used by the master or local app.
 
 - SII EEPROM Content
+	- 
 - SII EEPROM Logic Interface
 	- SII EEPROM Errors
 	- SII EEPROM Interface Assignment to ECAT/PDI
