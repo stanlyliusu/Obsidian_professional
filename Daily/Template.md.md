@@ -4,3 +4,8 @@
 - # tracking
 - # journal
 
+
+# Stay hungry. Stay foolish!
+
+
+

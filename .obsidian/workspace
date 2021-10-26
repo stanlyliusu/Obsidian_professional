@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "eee.md",
+            "file": "Daily/2021-10-26_周二.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eee.md",
+                "file": "Daily/2021-10-26_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "c49f2b64ae0877ae",
   "lastOpenFiles": [
+    "Daily/2021-10-26_周二.md",
+    "Daily/Template.md.md",
     "eee.md",
     "Reading Notes/esc eeprom feature lists.md",
     "Daily/2021-10-25_周一.md",
@@ -114,8 +116,6 @@
     "Daily/2021-10-19_周二.md",
     "Daily/2021-10-13_周三.md",
     "Daily/2021-10-15_周五.md",
-    "Daily/2021-10-14_周四.md",
-    "Daily/2021-10-11_周一.md",
-    "Daily/2021-10-12_周二.md"
+    "Daily/2021-10-14_周四.md"
   ]
 }
