@@ -1,0 +1,12 @@
+- 工作目录
+	- working area dir
+		- input dir
+		- output dir
+- xml2csv 程序流程
+	- input 区域get 所有xml 文件列表
+		- files = os.listdir(path)
+		- (file,ext)= os.path.splitext(url)
+	- 函数 process_xml
+		- 输入是每一个xml文件
+		- 处理结果: 同名的csv到output 目录下面
+		- 
