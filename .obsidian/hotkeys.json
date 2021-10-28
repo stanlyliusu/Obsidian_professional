@@ -6,5 +6,21 @@
       ],
       "key": "Y"
     }
+  ],
+  "obsidian-zoom:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-zoom:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
   ]
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c49f2b64ae0877ae",
+        "id": "54057a9ce76df184",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "闪念/xml2csv py程序.md",
+            "file": "Reading Notes/esc eeprom feature lists.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念/xml2csv py程序.md",
+                "file": "Reading Notes/esc eeprom feature lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "direction": "horizontal",
     "width": 245.5
   },
-  "active": "c49f2b64ae0877ae",
+  "active": "54057a9ce76df184",
   "lastOpenFiles": [
-    "闪念/xml2csv py程序.md",
-    "Daily/2021-10-27_周三.md",
-    "Daily/2021-10-26_周二.md",
-    "Daily/2021-10-22_周五.md",
-    "Daily/2021-10-21_周四.md",
-    "Daily/2021-10-25_周一.md",
-    "Daily/Template.md.md",
-    "eee.md",
     "Reading Notes/esc eeprom feature lists.md",
-    "Daily/2021-10-18_周一.md"
+    "references/radhapuramDesignEmulationAllDigital2019.md",
+    "references/SectionIIRegister.md",
+    "references/TI am3359 reference.md",
+    "ESC Register Configured Station Alias (0x0012-0x0013).md",
+    "ESC Register ESC Configuration (0x0141).md",
+    "eee.md",
+    "闪念/test zoom.md",
+    "闪念/xml2csv py程序.md",
+    "Daily/2021-10-27_周三.md"
   ]
 }
