@@ -2,11 +2,11 @@
   "obsidian-git",
   "calendar",
   "nldates-obsidian",
-  "obsidian-image-auto-upload-plugin",
   "obsidian-citation-plugin",
   "table-editor-obsidian",
   "obsidian-mind-map",
   "obsidian-outliner",
   "obsidian-zoom",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-image-auto-upload-plugin"
 ]
