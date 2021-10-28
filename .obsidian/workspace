@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading Notes/esc eeprom feature lists.md",
-            "mode": "preview"
+            "file": "Daily/2021-10-28_周四.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/esc eeprom feature lists.md",
+                "file": "Daily/2021-10-28_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "54057a9ce76df184",
   "lastOpenFiles": [
+    "Daily/2021-10-28_周四.md",
     "Reading Notes/esc eeprom feature lists.md",
     "references/radhapuramDesignEmulationAllDigital2019.md",
     "references/SectionIIRegister.md",
@@ -115,7 +116,6 @@
     "ESC Register ESC Configuration (0x0141).md",
     "eee.md",
     "闪念/test zoom.md",
-    "闪念/xml2csv py程序.md",
-    "Daily/2021-10-27_周三.md"
+    "闪念/xml2csv py程序.md"
   ]
 }
